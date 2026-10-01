@@ -4,7 +4,7 @@ const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
-  './icon.svg'
+  './icon.png'
 ];
 
 // 1. Installera och ladda ner filerna till telefonens minne
